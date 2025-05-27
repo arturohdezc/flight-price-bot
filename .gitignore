@@ -12,3 +12,8 @@ __pycache__/
 *.log
 *.sqlite3
 .DS_Store
+.idea/
+
+test_amadeus.py
+price_alert_demo.py
+flight_price_alert.json
